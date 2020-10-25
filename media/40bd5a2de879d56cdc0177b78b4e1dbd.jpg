@@ -1,0 +1,4 @@
+dist={}
+dist['aa']=123
+
+print(dist)
